@@ -1412,3 +1412,97 @@ fatal: no upstream configured for branch 'gh-pages'
 fatal: no upstream configured for branch 'gh-pages'
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
+> git show :README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose

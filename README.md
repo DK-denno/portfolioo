@@ -1,6 +1,6 @@
 # My portfolio,
  17/06/2018
-#### By Aurelia NAIYOMA
+#### By Dennis Kamau
 ## Description
 {this is my portfolio it gives a well detailed Description of who i am ,my hobbies passions and my inspiration in life }
 ## Setup/Installation Requirements
