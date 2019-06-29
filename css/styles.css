@@ -12,6 +12,11 @@ body {
     /* height: 100vh; */
     color:white;
 }
+.text{
+  margin-left: 180px;
+  padding-bottom: 60px;
+  margin-top: 250px;  
+}
 #mainText{
     margin-top: 30vh;
 }
