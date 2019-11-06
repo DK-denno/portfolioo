@@ -94,11 +94,10 @@ $(function() {
   
   
   const phrases = [
-    '************* What up World ************',
-    '************* My name is Dennis ******* ',
-    '********* I am a full stack dev ********',
-    '* Currently Polishing android and java *',
-    '************* I love coding ************',
+    'What up World ',
+    "I'm  Dennis",
+    'I am a full stack dev',
+    'I love coding',
   
   
   ]
